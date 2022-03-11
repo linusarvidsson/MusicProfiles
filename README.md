@@ -13,14 +13,6 @@ Vuex and axios will be used for state manegement and database integration.
 ## Project Screencast
 https://youtu.be/BRNpuS4YoMw
 
-## Linus Individual Code Screencast
-https://youtu.be/3QIi9tTltqc
-
-## Marwan Individual Code Screencast
-https://youtu.be/HNdVC9Vs-jM
-## Mid Course Screencast
-https://youtu.be/dapWH_3c2B4
-
 ## Project setup
 ```
 npm install
